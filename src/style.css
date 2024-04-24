@@ -1,0 +1,12 @@
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+strong {
+  font-size: 20rem;
+  font-weight: bold;
+  text-align: center;
+}
